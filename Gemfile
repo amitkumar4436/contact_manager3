@@ -46,5 +46,6 @@ group :development, :test do
   gem 'spring'
   group :production do
   	gem 'pg'
+  end
 end
 
